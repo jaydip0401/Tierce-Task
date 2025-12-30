@@ -192,6 +192,9 @@ The application will be available at:
 
 <img width="1889" height="939" alt="register_page" src="https://github.com/user-attachments/assets/8c562b60-fb72-4a2a-aec1-7be56931eb27" />
 ---
+<img width="1909" height="937" alt="admin_login" src="https://github.com/user-attachments/assets/700651c8-2bf2-4293-b15a-f3e6c5442c38" />
+<img width="1916" height="941" alt="real_admin_panel" src="https://github.com/user-attachments/assets/fbc40cc0-3eaa-48c5-8f75-f6e398644e57" />
+<img width="1891" height="939" alt="admin_panel" src="https://github.com/user-attachments/assets/e07229ad-b723-4e8a-a40c-f0f00c11951c" />
 
 **Note:** This is a production-ready implementation focusing on security, scalability, and clean code architecture. All requirements from the task specification have been implemented, including bonus features like Docker setup and comprehensive documentation.
 
